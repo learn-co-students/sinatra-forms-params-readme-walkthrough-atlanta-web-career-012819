@@ -21,6 +21,7 @@ Specifically in this codealong, we'll connect HTML forms to a Sinatra applicatio
 
 ## Instructions
 
+
 Fork and clone this lesson. There are tests to make sure you're on track.
 
 Let's take a quick tour of the starter code. Open `app.rb`. The only route in our application responds to a `get` request to the `/food_form` URL by rendering the HTML in `food.erb`. We'll be working with `app.rb` (also called our Application Controller), and `food_form.erb` in the `views` directory.
